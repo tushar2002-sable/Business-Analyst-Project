@@ -11,7 +11,7 @@ Tools: Power BI (Desktop & Service) · MySQL · Excel · Power Query · DAX · d
 
 📄 Full documentation
 Key result: Cut manual reporting effort by 45% via automated refresh and drill-through reporting
-Used AS-IS & TO-BE diagrams
+Created AS-IS , TO-BE And BPMN diagrams
 
 **Retail Sales Business Analysis & Excel Dashboard**
 Replaced static, request-based sales reporting with a self-service Excel dashboard covering coffee type, roast, size, loyalty card status, and country-wise performance.
@@ -20,7 +20,7 @@ Tools: Microsoft Excel · Pivot Tables · Pivot Charts · Slicers · Timeline Fi
 
 📄 Full documentation
 Key result: Enabled direct measurement of loyalty program impact and instant segment-level visibility
-Used AS-IS &	TO-BE diagrams
+Created AS-IS &	TO-BE diagrams
 
 What Each Project Demonstrates
 Stakeholder requirement gathering
@@ -33,4 +33,4 @@ Dashboard delivery (Power BI / Excel)
 
 Author
 
-Tushar Sable LinkedIn
+Tushar Sable 
