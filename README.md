@@ -2,7 +2,7 @@ Pizza Sales Business Analysis & Power BI Dashboard
 
 A business analysis project covering the full requirements-to-delivery lifecycle: stakeholder requirement gathering, process mapping, documentation, and a Power BI dashboard — built to replace manual, multi-day sales reporting with real-time, self-service analytics.
 
-Tools: Power BI (Desktop & Service) · MySQL · SQL · Excel · Power Query · DAX · draw.io
+Tools: Power BI (Desktop & Service) · MySQL · Excel · Power Query · DAX · draw.io
 
 Business Problem
 
