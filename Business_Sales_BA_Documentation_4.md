@@ -1,4 +1,4 @@
-# Pizza Sales Power BI Dashboard — Business Analyst Documentation
+# Business Sales Analysis Power BI Dashboard — Business Analyst Documentation
 ### (Requirement Gathering, BRD, FRD, AS-IS/TO-BE)
 
 **Project context:** This document reframes the Pizza Sales Power BI dashboard as a full business analysis engagement — from stakeholder requirement gathering through to the delivered dashboard — rather than just a technical build. Data was sourced from MySQL and Excel, cleaned using Power Query, and modeled into a Power BI dashboard.
